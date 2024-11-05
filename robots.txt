@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://equjuoya.github.io/bNh/sitemap_index.txt
+Sitemap: https://equjuoya.github.io/lMd/sitemap_index.txt
+Sitemap: https://equjuoya.github.io/mbP/sitemap_index.txt
+Sitemap: https://equjuoya.github.io/owI/sitemap_index.txt
